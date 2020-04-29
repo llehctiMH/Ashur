@@ -3,7 +3,7 @@
 Ashur is a 2D, top-down single-player fantasy-adventure game, where an owl
 faces large bosses and progresses through the levels of Falconmont
 to defeat the old gods. Throughout the players journey they will
-encounter variously challengin enemies inspired by Mesopotamian mythology.
+encounter various increasingly challenging enemies inspired by Mesopotamian mythology.
 
 Production 2:
 The  game is in an incomplete and only slightly operational state.
